@@ -1,0 +1,9 @@
+h1 {
+    color: rgb(1, 117, 18);
+}
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
